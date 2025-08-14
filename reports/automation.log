@@ -1,0 +1,27 @@
+[2025-08-14 17:01:31] [main] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 17:09:23] [TestNG-test-Home Tests-1] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 17:09:46] [TestNG-test-Home Tests-1] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 17:13:11] [TestNG-test-Home Tests-1] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 17:18:00] [TestNG-test-Home Tests-1] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 17:18:49] [main] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 17:21:43] [main] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 17:21:43] [main] INFO  com.tests.HomePageTest - Navigating to Google Home Page
+[2025-08-14 17:21:43] [main] INFO  com.tests.HomePageTest - Tearing down browser
+[2025-08-14 17:22:30] [main] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 17:22:30] [main] INFO  com.tests.HomePageTest - Navigating to Google Home Page
+[2025-08-14 17:22:30] [main] INFO  com.tests.HomePageTest - Tearing down browser
+[2025-08-14 17:25:22] [main] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 17:26:19] [TestNG-test-Home Tests-1] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 17:39:15] [main] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 17:43:27] [main] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 17:46:13] [main] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 17:56:04] [main] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 17:57:18] [main] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 17:58:30] [main] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 17:58:36] [main] INFO  com.tests.HomePageTest - Navigating to Google Home Page
+[2025-08-14 17:58:38] [main] INFO  com.tests.HomePageTest - Page title is: Google
+[2025-08-14 17:58:38] [main] INFO  com.tests.HomePageTest - Tearing down browser
+[2025-08-14 17:59:52] [main] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 17:59:56] [main] INFO  com.tests.HomePageTest - Navigating to Google Home Page
+[2025-08-14 17:59:57] [main] INFO  com.tests.HomePageTest - Page title is: Google
+[2025-08-14 17:59:57] [main] INFO  com.tests.HomePageTest - Tearing down browser
