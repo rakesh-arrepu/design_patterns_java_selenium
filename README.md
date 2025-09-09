@@ -1,4 +1,9 @@
+# Selenium TestNG Cucumber Framework
 
+![GitHub Repo stars](https://img.shields.io/github/stars/rakesh-arrepu/design_patterns_java_selenium?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/rakesh-arrepu/design_patterns_java_selenium)
+![GitHub issues](https://img.shields.io/github/issues/rakesh-arrepu/design_patterns_java_selenium)
+![GitHub license](https://img.shields.io/github/license/rakesh-arrepu/design_patterns_java_selenium)
 # design_patterns_java_selenium
 
 
@@ -32,6 +37,86 @@ SeleniumTestNGCucumberFramework/
 ├── pom.xml                              # Modern dependencies/test config
 ├── README.md                            # This file
 ```
+## 🛠️ Setting Up the Project
+
+### 1. Clone the Repository
+Clone the project from GitHub:
+```sh
+git clone https://github.com/rakesh-arrepu/design_patterns_java_selenium.git
+cd design_patterns_java_selenium
+```
+
+### 2. Install JDK 22
+
+#### For macOS:
+1. Download JDK 22 from the official Oracle or OpenJDK website:
+   - [Oracle JDK 22](https://www.oracle.com/java/technologies/javase-downloads.html)
+   - [OpenJDK 22](https://openjdk.org/)
+2. Set the `JAVA_HOME` environment variable:
+   ```sh
+   export JAVA_HOME=/path/to/jdk-22
+   export PATH=$JAVA_HOME/bin:$PATH
+   ```
+3. Verify the installation:
+   ```sh
+   java -version
+   ```
+
+#### For Windows:
+1. Download JDK 22 from the official Oracle or OpenJDK website:
+   - [Oracle JDK 22](https://www.oracle.com/java/technologies/javase-downloads.html)
+   - [OpenJDK 22](https://openjdk.org/)
+2. Install the JDK and note the installation path (e.g., `C:\Program Files\Java\jdk-22`).
+3. Set the `JAVA_HOME` environment variable:
+   - Open **System Properties** > **Advanced** > **Environment Variables**.
+   - Add a new system variable:
+      - Variable name: `JAVA_HOME`
+      - Variable value: `C:\Program Files\Java\jdk-22`
+   - Edit the `Path` variable and add `%JAVA_HOME%\bin`.
+4. Verify the installation:
+   ```cmd
+   java -version
+   ```
+
+### 3. Install Maven
+
+#### For macOS:
+1. Download Maven from the official website:
+   - [Maven Download](https://maven.apache.org/download.cgi)
+2. Extract the archive and move it to a directory (e.g., `/usr/local/apache-maven`).
+3. Set the `MAVEN_HOME` environment variable:
+   ```sh
+   export MAVEN_HOME=/path/to/maven
+   export PATH=$MAVEN_HOME/bin:$PATH
+   ```
+4. Verify the installation:
+   ```sh
+   mvn -version
+   ```
+
+#### For Windows:
+1. Download Maven from the official website:
+   - [Maven Download](https://maven.apache.org/download.cgi)
+2. Extract the archive to a directory (e.g., `C:\Program Files\Apache\Maven`).
+3. Set the `MAVEN_HOME` environment variable:
+   - Open **System Properties** > **Advanced** > **Environment Variables**.
+   - Add a new system variable:
+      - Variable name: `MAVEN_HOME`
+      - Variable value: `C:\Program Files\Apache\Maven`
+   - Edit the `Path` variable and add `%MAVEN_HOME%\bin`.
+4. Verify the installation:
+   ```cmd
+   mvn -version
+   ```
+
+### 4. Import the Project into IntelliJ IDEA
+
+1. Open IntelliJ IDEA.
+2. Go to `File > Open` and select the cloned project directory.
+3. Set the SDK to JDK 22:
+    - Go to `File > Project Structure > SDK` and select JDK 22.
+4. Maven will automatically import dependencies from the `pom.xml` file.
+   https://intellij-support.jetbrains.com/hc/en-us/community/posts/360010215699-Set-up-a-project-SDK
 
 ## 🚀 Getting Started
 
@@ -69,6 +154,3 @@ mvn test -Dcucumber.options="src/test/resources/features"
 - Integrate with CI tools using provided Maven profiles.
 
 ---
-
-**This framework is ready for real projects and quick demo POCs alike. See code comments and provided samples for more customization options!**
-

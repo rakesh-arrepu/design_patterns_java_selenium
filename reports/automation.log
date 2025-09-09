@@ -25,3 +25,11 @@
 [2025-08-14 17:59:56] [main] INFO  com.tests.HomePageTest - Navigating to Google Home Page
 [2025-08-14 17:59:57] [main] INFO  com.tests.HomePageTest - Page title is: Google
 [2025-08-14 17:59:57] [main] INFO  com.tests.HomePageTest - Tearing down browser
+[2025-08-14 18:44:52] [TestNG-test-Home Tests-1] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 18:45:00] [TestNG-test-Home Tests-1] INFO  com.tests.HomePageTest - Navigating to Google Home Page
+[2025-08-14 18:45:02] [TestNG-test-Home Tests-1] INFO  com.tests.HomePageTest - Page title is: Google
+[2025-08-14 18:45:02] [TestNG-test-Home Tests-1] INFO  com.tests.HomePageTest - Tearing down browser
+[2025-08-14 18:56:28] [TestNG-test-Surefire test-1] INFO  com.tests.HomePageTest - Setting up browser
+[2025-08-14 18:56:31] [TestNG-test-Surefire test-1] INFO  com.tests.HomePageTest - Navigating to Google Home Page
+[2025-08-14 18:56:33] [TestNG-test-Surefire test-1] INFO  com.tests.HomePageTest - Page title is: Google
+[2025-08-14 18:56:33] [TestNG-test-Surefire test-1] INFO  com.tests.HomePageTest - Tearing down browser
